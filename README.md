@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SHagerGEL
-- 👀 I’m interested in Embedded Linux
-- 🌱 I’m currently learning a lot
+- 👀 I’m interested in Embedded Linux and Machine Learning
+<!--- 🌱
+--->
 
 <!---
 SHagerGEL/SHagerGEL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
